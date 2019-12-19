@@ -182,9 +182,13 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="charlessong" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.zhenghaosw.com/yuanzhl/zhsw-busi-management-sys.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workspace\zhswSpace\03Consumer" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Workspace/ZHSW/zhsw-bsp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
