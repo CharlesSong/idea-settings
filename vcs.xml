@@ -234,9 +234,21 @@
           <option name="url" value="https://git.zhenghaosw.com/zhsw/xsm-order-end.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.zhenghaosw.com/zhsw/zhsw-microservice-wechat-open.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.zhenghaosw.com/zhsw/pigx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.zhenghaosw.com/zhsw/zhsw-microservice-rocketmq.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/Work/Workspace/ZHSW/zhsw-bsp" />
+    <option name="cloneParentDir" value="/Volumes/Work/Workspace/ZHSW/zhsw-micros-bsp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
