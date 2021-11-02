@@ -42,9 +42,13 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="charles2song@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/xuxueli0323/xxl-job.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Workspace/EarnMoney" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Workspace/Java" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
