@@ -1,0 +1,11 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.intellij.bigdatatools" />
+        <option value="com.intellij.beanValidation" />
+        <option value="com.intellij.spring.data" />
+      </list>
+    </option>
+  </component>
+</application>
