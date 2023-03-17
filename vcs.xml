@@ -190,9 +190,13 @@
           <option name="url" value="http://git.zhenghaosw.com/wuxq/lego3.0" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.zhenghaosw.com/wuxq/shop-assistant.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/SyncWork/workspace/ZHSW/11-Lego" />
+    <option name="cloneParentDir" value="$USER_HOME$/SyncWork/workspace/ZHSW/06-MALL" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
