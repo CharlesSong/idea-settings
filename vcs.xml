@@ -6,6 +6,10 @@
           <option name="url" value="http://git.zhenghaosw.com" />
           <option name="userName" value="zhsw" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.gohome8.cn" />
+          <option name="userName" value="songchao" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
