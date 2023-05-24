@@ -38,9 +38,13 @@
           <option name="url" value="https://git.zhenghaosw.com/zhsw/mall2b-supplier-uniapp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.zhenghaosw.com/liuch/mec-jining.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/SyncWork/workspace/ZHSW/06-MALL" />
+    <option name="cloneParentDir" value="$USER_HOME$/SyncWork/workspace/ZHSW/09-xsm" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
