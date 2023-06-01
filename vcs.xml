@@ -58,6 +58,10 @@
           <option name="url" value="http://192.168.10.222:8080/backend/SIPAIIS_Base.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.10.222:8080/soft/SIPAIIS_DOCS.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/SyncWork/my-workspace/sipai" />
