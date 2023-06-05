@@ -66,9 +66,13 @@
           <option name="url" value="https://github.com/charles4song/my-drawio-files.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.zhenghaosw.com/zhsw/zhsw-micros-bsp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/SyncWork/my-workspace" />
+    <option name="cloneParentDir" value="$USER_HOME$/SyncWork/workspace/ZHSW/10-Bsp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
