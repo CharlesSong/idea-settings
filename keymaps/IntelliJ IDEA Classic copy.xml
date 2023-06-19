@@ -19,11 +19,16 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="Force touch" />
     <mouse-shortcut keystroke="button2" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="Vcs.QuickListPopupAction" />
 </keymap>
