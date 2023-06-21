@@ -7,12 +7,20 @@
     <keyboard-shortcut first-keystroke="shift delete" />
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta v" />
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -26,6 +34,15 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="ctrl f" />
@@ -36,6 +53,12 @@
     <mouse-shortcut keystroke="button2" />
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="Images.Thumbnails.UpFolder" />
   <action id="TodoViewGroupByFlattenPackage" />
+  <action id="UsageGrouping.DirectoryStructure" />
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="Vcs.QuickListPopupAction" />
 </keymap>
