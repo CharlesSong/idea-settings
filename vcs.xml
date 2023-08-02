@@ -90,6 +90,10 @@
           <option name="url" value="https://gitee.com/JavaLionLi/plus-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.0.8.110:3000" />
+          <option name="userName" value="zhsw" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/SyncWork/my-workspace/ruoyi" />
